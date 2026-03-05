@@ -43,7 +43,7 @@ Finalment, vaig comprovar que la pàgina funcionés correctament tant en ordinad
 
 - **Imatges destacades:** Cada notícia pot tenir imatges per fer-la més atractiva.
 
-Taula de classificació automàtica: Permet veure la posició actual dels equips sense necessitat de buscar externament.
+- **Taula de classificació automàtica:** Permet veure la posició actual dels equips sense necessitat de buscar externament.
 
 
 
